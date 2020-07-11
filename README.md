@@ -1,2 +1,2 @@
 # Blog
-A blog built with React
+A blog built with React. Mongo, and NodeJs
